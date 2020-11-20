@@ -27,6 +27,12 @@ h2{
 .pais{
     justify-content: center;
 }
+footer{
+    display: grid;
+    grid-template-rows: 60% 40%;
+    /*grandiente*/
+    background-image: linear-gradient(to top, #81E685,  #323232);
+}
 .verdeOscuro {
     height: 196px;
     background-color: #81E685;
