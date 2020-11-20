@@ -1,0 +1,7 @@
+[1119/180145.236:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1119/182709.900:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1119/182709.900:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1119/182710.757:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1119/182710.757:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1119/182710.757:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1119/182710.757:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
