@@ -15,6 +15,10 @@ ul{
     justify-content: center;
     list-style: none;
 }
+.iconos{
+    height: 60px;
+    width: auto;
+}
 .respuesta{
     color: white;
     font-size: 16px;
@@ -54,7 +58,8 @@ span {
     font-weight: bold;
 }
 .bandera .imgMundo{
-    height: 100px;
+    height:60px;
+    width: auto;
 }
 .form{
     color: black;
@@ -82,4 +87,12 @@ span {
         font-size: 36px;
         font-weight: bold;
     }
+}
+/*transición*/
+#active{
+    border-bottom: solid 5px #81E685;
+}
+#active:hover{
+    width: 70px;
+    height: auto;
 }
